@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PermCheck", "PermCheck\PermCheck.csproj", "{FBA8AB06-4C6B-4C2F-A36F-5D4F0CE51AB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PermCheck.Tests", "PermCheck.Tests\PermCheck.Tests.csproj", "{3E594A28-1EB8-4AB9-BBE8-1AC3BD528DB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBA8AB06-4C6B-4C2F-A36F-5D4F0CE51AB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBA8AB06-4C6B-4C2F-A36F-5D4F0CE51AB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBA8AB06-4C6B-4C2F-A36F-5D4F0CE51AB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBA8AB06-4C6B-4C2F-A36F-5D4F0CE51AB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E594A28-1EB8-4AB9-BBE8-1AC3BD528DB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E594A28-1EB8-4AB9-BBE8-1AC3BD528DB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E594A28-1EB8-4AB9-BBE8-1AC3BD528DB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E594A28-1EB8-4AB9-BBE8-1AC3BD528DB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20678FED-F549-4821-B67F-7C6688EE44D8}
+	EndGlobalSection
+EndGlobal
